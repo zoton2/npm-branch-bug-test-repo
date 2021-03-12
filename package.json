@@ -1,5 +1,5 @@
 {
-  "name": "@zoton2/npm-branch-bug-test-repo",
+  "name": "npm-branch-bug-test-repo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
